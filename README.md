@@ -1,5 +1,6 @@
-# DataCamp-Git
-My DataCamp projects
+# Hypothesis-Testing-Men-Women-Soccer
+Hypothesis Testing Men's and Women's Soccer Matches in Python
+
 In this notebook I'll try to answer one life's great questions:
 
 > Are more goals scored in women's international soccer matches than men's?
